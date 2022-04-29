@@ -2,10 +2,10 @@
 title: joo's git blog demo 
 description: test
 url: https://jooheeok.github.io/ 
-avatar: ./jeju.jpeg
+avatar: ./jeju.JPG
 paginate: 5
 # permalink: pretty
-cover_image: /parisM.jpeg
+cover_image: ./parisM.JPG
 
 # Gems
 plugins:
